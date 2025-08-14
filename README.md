@@ -43,7 +43,7 @@ LibraryManagementSystem/
 **1️⃣ Clone the repository**
 ```bash
 git clone https://github.com/dibyendupaul-09/Library-Management-System.git
-cd LibraryManagementSystem
+cd Library-Management-System
 ```
 
 **2️⃣ Compile the Java files**
