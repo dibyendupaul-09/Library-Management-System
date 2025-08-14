@@ -42,7 +42,7 @@ LibraryManagementSystem/
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/dibyendupaul-09/LibraryManagementSystem.git
+git clone https://github.com/dibyendupaul-09/Library-Management-System.git
 cd LibraryManagementSystem
 ```
 
